@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    justify-content: space-around;
+
+}
+h1{
+    text-align: center;
+}
+.box div{
+    color: white;
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    font-size: 45px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+    display: flex;
+        justify-content: space-evenly;
+   
+    }
+footer{
+      display: flex;
+    justify-content: space-around;
+
+}
